@@ -1,4 +1,4 @@
 # midterm_template
 
 Akash Nayyar
-nayyara2@student.douglascollege.ca.
+nayyara2@student.douglascollege.ca
